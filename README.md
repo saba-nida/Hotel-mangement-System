@@ -1,1 +1,1 @@
-# k
+•	It is a software which helps hotel staff/admin to manage customer records and other information. It can be used to manage tasks like keeping track of client and employee information, room details, booking two different types of rooms, and checkout features. It also offers pick up service. 
